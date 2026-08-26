@@ -1,24 +1,104 @@
-# 💫 About Me:
-Python backend projects using MySQL (CRUD apps, APIs)<br>Beginner-friendly Python backend or database projects<br>Improving backend logic, API design, and real-world projects<br>Python, MySQL, Backend Development, REST APIs<br>Python basics, MySQL queries, backend fundamentals<br>I enjoy learning by building small projects every day
+<div align="center">
 
+# Hi 👋, I'm Shardendu Prakash Gupta
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_adi.tya_gupta_0002) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shardendu-prakash-gupta-b53785389/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ramgupta639225@gmail.com) 
+### Python Backend Developer | Building Practical Web Applications
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ramgupta639225-svg&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ramgupta639225-svg&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ramgupta639225-svg&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shardendu%20Prakash%20Gupta-blue?style=flat\&logo=linkedin)](https://www.linkedin.com/in/shardendu-prakash-gupta-b53785389/)
+[![Gmail](https://img.shields.io/badge/Email-ramgupta639225%40gmail.com-red?style=flat\&logo=gmail)](mailto:ramgupta639225@gmail.com)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ramgupta639225-svg&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ramgupta639225-svg&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👨‍💻 About Me
+
+I am a self-driven **Python Backend Developer** with a strong interest in building practical and reliable web applications.
+
+* 🔭 Currently working on Python and Flask-based projects
+* 🌱 Continuously improving my backend development skills
+* 🛠️ Working with REST APIs, databases, authentication, and web applications
+* 💡 I enjoy solving problems and learning by building real-world projects
+* 🤝 Open to learning, collaboration, and new opportunities
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,flask,postgres,mysql,git,github,postman,html,css" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/SQLAlchemy-Database%20ORM-red?style=flat" />
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+### 💰 Expense Tracker
+
+A Flask-based web application for managing and tracking personal expenses.
+
+**Tech Stack:** Python, Flask, PostgreSQL, SQLAlchemy
+
+---
+
+### 🔐 Authentication System
+
+A user authentication system with features such as registration, login, email verification, and password management.
+
+**Tech Stack:** Python, Flask, SQLAlchemy, HTML, CSS
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ramgupta639225-svg&show_icons=true&hide_border=true&count_private=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramgupta639225-svg&layout=compact&hide_border=true" />
+
+</div>
+
+---
+
+## 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=ramgupta639225-svg&hide_border=true" />
+
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/shardendu-prakash-gupta-b53785389/">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+  
+
+<a href="mailto:ramgupta639225@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💻 Learning • Building • Improving
+
+*"The best way to learn is to build."*
+
+</div>
