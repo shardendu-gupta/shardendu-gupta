@@ -61,28 +61,6 @@ A user authentication system with features such as user registration, login, ema
 
 **Tech Stack:** Python, Flask, SQLAlchemy, HTML, CSS, Jinja2
 
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img
-src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ramgupta639225-svg&show_icons=true&hide_border=true"
-height="170"
-alt="GitHub Stats"
-/>
-
-<img
-src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ramgupta639225-svg&layout=compact&hide_border=true"
-height="170"
-alt="Top Languages"
-/>
-
-</div>
-
----
-
 ## 🔥 GitHub Streak
 
 <div align="center">
