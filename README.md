@@ -160,9 +160,9 @@ Bundelkhand University, Jhansi
 
 I am always interested in connecting with developers, learning new technologies, collaborating on projects, and exploring Python Backend Development opportunities.
 
-**GitHub:** https://github.com/YOUR_GITHUB_USERNAME
+**GitHub:** https://github.com/shardendu-gupta
 
-**LinkedIn:** Shardendu Prakash Gupta
+**LinkedIn:** https://www.linkedin.com/in/shardendu-prakash-gupta-b53785389/
 
 ---
 
