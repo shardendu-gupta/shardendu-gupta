@@ -157,17 +157,6 @@ Bundelkhand University, Jhansi
 - Backend System Design
 - Writing clean, maintainable, and reusable code
 
----
-
-## 💻 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark)
-
----
-
-## 🤝 Let's Connect
 
 I am always interested in connecting with developers, learning new technologies, collaborating on projects, and exploring Python Backend Development opportunities.
 
