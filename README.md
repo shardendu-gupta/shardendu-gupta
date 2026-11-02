@@ -1,101 +1,180 @@
-<div align="center">
+# Hi, I'm Shardendu Prakash Gupta 👋
 
-# Hi 👋, I'm Shardendu Prakash Gupta
+### Python Backend Developer | Django & Flask | REST API Development
 
-### Python Backend Developer | Building Practical & Scalable Web Applications
+I am an aspiring **Python Backend Developer** passionate about building scalable, secure, and efficient backend applications. I enjoy solving problems, designing RESTful APIs, working with databases, and developing real-world applications using Python.
 
-<p>
-  <a href="https://www.linkedin.com/in/shardendu-prakash-gupta-b53785389/">
-    <img src="https://img.shields.io/badge/LinkedIn-Shardendu%20Prakash%20Gupta-0A66C2?style=flat&logo=linkedin&logoColor=white" />
-  </a>
+I have hands-on experience with **Python, Django, Django REST Framework (DRF), Flask, SQL, and database management** through personal projects and internship assignments.
 
-  <a href="mailto:ramgupta639225@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=flat&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
-</div>
+I continuously work on improving my backend development skills, writing clean code, understanding software architecture, and building practical applications.
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a self-driven **Python Backend Developer** focused on building practical and reliable web applications.
-
-* 🔭 Building real-world projects using Python and Flask
-* 🌱 Continuously improving my backend development skills
-* 🛠️ Working with databases, authentication, REST APIs, and web applications
-* 💡 I believe in learning by building real-world projects
-* 🤝 Open to learning, collaboration, and new opportunities
+- 🎯 Aspiring Python Backend Developer.
+- 🐍 Focused on Python, Django, Django REST Framework, and Flask.
+- 🔗 Experienced in developing RESTful APIs and backend applications.
+- 🗄️ Interested in database design, ORM, and query optimization.
+- 🔐 Worked on authentication, authorization, JWT, OTP, and user management.
+- 🚀 Built multiple practical backend projects and internship assignments.
+- 📚 Continuously learning Data Structures & Algorithms and backend development.
+- 💡 Believe in learning by building real-world applications.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Skills
 
-<div align="center">
+### Programming Languages
+- Python
+- SQL
 
-<img src="https://skillicons.dev/icons?i=python,flask,postgres,mysql,git,github,postman,html,css" />
+### Backend Development
+- Django
+- Django REST Framework (DRF)
+- Flask
+- RESTful API Development
+- CRUD Operations
+- API Integration
+- Authentication & Authorization
+- JWT Authentication
+- OTP Verification
+- Pagination, Filtering, Searching & Ordering
 
-<br><br>
+### Databases & ORM
+- PostgreSQL
+- MySQL
+- SQLite
+- Django ORM
+- SQLAlchemy ORM
+- Database Design & Relationships
 
-<img src="https://img.shields.io/badge/SQLAlchemy-ORM-D71F00?style=flat-square" />
-<img src="https://img.shields.io/badge/Jinja2-Template%20Engine-B41717?style=flat-square" />
+### Frontend Basics
+- HTML5
+- CSS3
+- Bootstrap
+- Jinja2 Templates
 
-</div>
+### Tools & Technologies
+- Git & GitHub
+- Postman
+- VS Code
+- PyCharm
+- Virtual Environments
+- Environment Variables (.env)
 
 ---
 
 ## 🚀 Featured Projects
 
-### 💰 Expense Tracker
+### 1. E-Commerce Backend API
+**Tech Stack:** Python, Django, Django REST Framework, PostgreSQL
 
-A Flask-based web application for managing, categorizing, and tracking personal expenses.
+- Implemented product listing and product detail APIs.
+- Designed database relationships for products, carts, cart items, and orders.
+- Implemented authenticated cart management.
+- Added cart item addition and removal functionality.
+- Used serializers and API views for request validation and response handling.
+- Worked on stock management and order processing.
 
-**Tech Stack:** Python, Flask, PostgreSQL, SQLAlchemy, HTML, CSS, Jinja2
+### 2. EduTrack – Student Learning Management System
+**Tech Stack:** Python, Flask, SQLAlchemy, PostgreSQL, HTML, CSS
 
----
+- Developed a student learning and progress tracking application.
+- Implemented user authentication and admin functionality.
+- Created student, course, habit, and assignment management modules.
+- Implemented password reset and email verification functionality.
+- Added Excel data export functionality.
+- Developed student progress calculation and dashboard features.
 
-### 🔐 Authentication System
+### 3. Flask Authentication System
+**Tech Stack:** Python, Flask, SQLAlchemy, Flask-Login, HTML, CSS, Jinja2
 
-A user authentication system with features such as user registration, login, email verification, password recovery, and secure user management.
+- Implemented user registration and login.
+- Developed OTP-based registration verification.
+- Added password reset functionality using OTP.
+- Implemented session-based authentication using Flask-Login.
+- Added user profile and profile photo management.
 
-**Tech Stack:** Python, Flask, SQLAlchemy, HTML, CSS, Jinja2
+### 4. Expense Tracker
+**Tech Stack:** Python, Flask, PostgreSQL, SQLAlchemy, Flask-Migrate
 
-## 🔥 GitHub Streak
-
-<div align="center">
-
-<img
-src="https://streak-stats.demolab.com?user=ramgupta639225-svg&hide_border=true"
-alt="GitHub Streak"
-/>
-
-</div>
-
----
-
-## 🤝 Connect With Me
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/shardendu-prakash-gupta-b53785389/">
-  <img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-
-  
-
-<a href="mailto:ramgupta639225@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-</div>
+- Built a personal expense management application.
+- Integrated PostgreSQL for persistent data storage.
+- Used SQLAlchemy ORM for database operations.
+- Implemented user authentication.
+- Used Flask-Migrate for database schema management.
 
 ---
 
-<div align="center">
+## 💼 Internship Experience
 
-### 💻 Learning • Building • Improving
+### Backend Development – CodeAlpha
+- Completed internship assignments involving backend development.
+- Built a Simple URL Shortener.
+- Developed an Event Registration System.
+- Created a Job Board Platform.
 
-> *"The best way to learn is to build."*
+### Backend Development – CodSoft
+- Developed a Student Record Management API.
+- Built a Contact Management System.
+- Implemented a Library Management System.
+- Practiced API development, database relationships, and CRUD operations.
 
-</div>
+### Backend Development – InfozaTech
+- Developed a User Authentication API.
+- Implemented JWT authentication and refresh tokens.
+- Built a Background Job & Notification Service.
+- Developed an E-Commerce Backend API.
+
+---
+
+## 📜 Certifications & Internship Programs
+
+- CodeAlpha – Backend Development
+- CodSoft – Backend Development
+- InfozaTech – Backend Development
+- Cognifyz Technologies – Python Development
+- Saiket Systems – Python Development
+
+---
+
+## 🎓 Education
+
+**Bachelor of Arts (B.A.)**  
+Bundelkhand University, Jhansi
+
+---
+
+## 📈 Current Learning Goals
+
+- Advanced Python Programming
+- Django & Django REST Framework
+- REST API Architecture
+- Database Design and Optimization
+- Data Structures & Algorithms
+- Problem Solving with Python
+- Backend System Design
+- Writing clean, maintainable, and reusable code
+
+---
+
+## 💻 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark)
+
+---
+
+## 🤝 Let's Connect
+
+I am always interested in connecting with developers, learning new technologies, collaborating on projects, and exploring Python Backend Development opportunities.
+
+**GitHub:** https://github.com/YOUR_GITHUB_USERNAME
+
+**LinkedIn:** Shardendu Prakash Gupta
+
+---
+
+⭐ *Building practical solutions, learning continuously, and growing as a Python Backend Developer.*
